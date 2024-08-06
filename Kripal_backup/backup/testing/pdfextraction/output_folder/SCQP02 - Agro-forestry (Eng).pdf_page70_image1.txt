@@ -1,0 +1,18 @@
+﻿
+
+
+Given below are two statements:
+
+Statement I: Carbon mineralization test in soil is used to test the effects of chemical on indigenous microbes
+
+Statement II: Oxygen consumption inhibition in activated sludge is a respiration based test for testing the effects of chemicals.
+
+In the light of the above statements, choose the most correct answer from the options given below
+
+1. Both Statement I and Statement II are true
+
+2. Both Statement I and Statement II are false
+
+3. Statements I is true but Statement II is false
+
+4. Statement I is false but Statement II is true

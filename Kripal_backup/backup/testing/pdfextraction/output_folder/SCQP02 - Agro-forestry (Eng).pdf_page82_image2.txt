@@ -1,0 +1,12 @@
+﻿
+
+
+What is the trade-off of aggressive pruning in neutral networks?
+
+1. Increased model complexity.
+
+2. Longer training time.
+
+3. Reduced interpretability of the model.
+
+4. Potential loss of model accuracy.

@@ -1,0 +1,14 @@
+﻿
+
+
+If A is sister of D and D is son of B then how are A and B related:
+
+Choose the correct option
+
+1. A is mother of B
+
+2. A is daughter of B
+
+3. A is sister of B
+
+4. A is aunt of B

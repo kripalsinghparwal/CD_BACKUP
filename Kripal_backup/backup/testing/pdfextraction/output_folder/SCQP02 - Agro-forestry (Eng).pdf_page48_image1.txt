@@ -1,0 +1,18 @@
+﻿
+
+
+Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R
+
+Assertion: A The response of plants to elevated concentrations of CO2 is known as carbon-dioxide fertilization effect.
+
+Reason R: Under elevated concentrations of atmospheric CO2, plants are able to increase their rate of photosynthesis
+
+In the light of above statements, choose the correct answer from the options given below
+
+1. Both A and R are true and R is the correct explanation of A
+
+2. Both A and B are true but R is NOT the correct explanation of A
+
+3. A is true but R is false
+
+4. A is false but R is true

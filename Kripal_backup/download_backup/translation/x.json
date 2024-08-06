@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "scienceandtech-404413",
+    "private_key_id": "7dcb1e466d804525dfb2a8b222900d23352d620e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAZSg+oyfM4QJm\nfAa7TaaGpudDaP6x+ocoCQVjzOuKyRSSqPbt2skh01YUGf/9l4SB4AGxd6nDxiC6\ntkLlvRC/PuGOirTXZ1cdD63MwR2hzssmrDKFtOu614Fc7KJoIysDnBqRYx7PXbNC\nu2fsUPs5r7jmz1jmFS8SejPlW92xQFu40n/eJicozlFyixGddKq6kvm6b8NA2Xp5\n5Wv5NbwoeGourG2yucwZISZQxNsX2GGt3vfOWlvVIEft6AY/u2HV+pLlq1+lzbCd\nBC6axC8gww1iA/RTxBUbNWW2d2ELk1XxHXb0CZV9dZnu90AVw4fKnGfu5nL6rMOG\n8YyDD82NAgMBAAECggEABXpb3Py0Q2cctGJPpsGdPjQ+XXL93X9unbs0BhVtl3QG\nO+7HqRoTo/zqdIQQ/91yjmgcZDsuAD8B648I9JWfhnJ55Z8ZaxCsME2j+zJ8b4D9\n08oPXjM6iwVbz5OFREXMEbw+HWmfFPRsCDhhyx67KHdSYnAA7fwobPRBygQFmehY\nkN9FAqli+Ng6wwPbs+ErcDDm3umJBRAcxj5YLCklHb0mtXsIZJfLOZXHcX6IgN+I\nw3MZ0gPzFz/WfUgiY3TDciRXQZikz6g7/eEumfOS/2afi/gsWzaQD9Ggp3qj/LHn\nk8kDV+21QwcIXaKriKg+kEvHxmc2Zp8sQx6IqISJ2QKBgQDerIx1aRSAakLnUs1i\nsloR1Mg9gYDxvdEU9vGr1XVFaOzMkun8QHjtAoXWsugjs+V20iJ3/q/BHnFVm9DL\n+lsasOukARWgA2PDKHTG6D2zb1Z+3VQRHv6Zr3QgDDwU+2Clbdcn/8uBGvMEdh9O\nLpC4QIq2gbn5RRLguAMXnS4nlwKBgQDdMIPLFYdphmfMdP096IPHoWx52NfHjU3W\ngj/43ibofwdNIJjBEaUL5ecsmGCx+/PKWJl6cdvXdlmmKau25buGIPjKaJPFoSw9\nSQvoxs490q0uZxePVDMPiSgZ4tn20jO/67vdOuOk4lUekn5V3v9VXUwghtSP9QrP\nj7bJicx4ewKBgC5kWKcli2XtvZ6gO7YyXl2UrVtTHeA/oc3yXQtl35bkc2FzwlgR\nvp/yhJvkjkTR+B63TQMfBtL/WrFxUyEMOernrVBwAWdjDWfdh+bg/+ngam7oAdnH\nUVgHm/QJWIMulEYjCk6FFosBaFwnmAIb5X7dw4ieonZyk6pJ7CsBTlplAoGBAJMf\n2goTX+bJB/HvPyMWrdDzhnvlyGFrlALC0FpxKeAr3mdm7zQ80FOBsKrxECBTPm2x\nUSUo5toCVs83mIgndvxYoiPAO8qQ0iRRmiJTWou0vozG9dzYXL5QtOPDCMgsOU/H\nNUaKDTF3erbDKlVj5uKZFDHufSTkETTOmv6jMeZRAoGAcHiY5X356Zk2DHHogIE+\nIzSSJUXNsr5ufAcrc9VMTqcV7d9Am9+pVSLWJFk/sgYJZYlRlN7tv/xKSfWWUfHF\n/3qmpKooQF09O566FY7WK0POH18ojNDmD/riH17M9nVyY9Q7TmjJXNHx2o+srVta\n8dG1Cec/+wOWVEyHZv8IW/U=\n-----END PRIVATE KEY-----\n",
+    "client_email": "collegedunia-gsheet@scienceandtech-404413.iam.gserviceaccount.com",
+    "client_id": "114773357450522539198",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/collegedunia-gsheet%40scienceandtech-404413.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }

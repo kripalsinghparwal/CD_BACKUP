@@ -1,0 +1,150 @@
+2024-03-16 12:33:40,710 - ERROR: Exception occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.129)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7577C1D4C]
+	(No symbol) [0x00007FF7578523F7]
+	(No symbol) [0x00007FF757867891]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:33:46,928 - ERROR: Failed to retrieve HTML content
+2024-03-16 12:34:47,042 - ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7578298ED]
+	(No symbol) [0x00007FF757829A2C]
+	(No symbol) [0x00007FF75786A967]
+	(No symbol) [0x00007FF75784BCDF]
+	(No symbol) [0x00007FF7578681E2]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:34:53,580 - ERROR: Failed to retrieve HTML content
+2024-03-16 12:35:07,063 - ERROR: Exception occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.129)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7577C1D4C]
+	(No symbol) [0x00007FF7578523F7]
+	(No symbol) [0x00007FF757867891]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:35:13,506 - ERROR: Failed to retrieve HTML content
+2024-03-16 12:36:00,278 - ERROR: Exception occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.129)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7577C1D4C]
+	(No symbol) [0x00007FF7578523F7]
+	(No symbol) [0x00007FF757867891]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:36:06,541 - ERROR: Failed to retrieve HTML content
+2024-03-16 12:37:55,856 - ERROR: Exception occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7578298ED]
+	(No symbol) [0x00007FF757829A2C]
+	(No symbol) [0x00007FF75786A967]
+	(No symbol) [0x00007FF75784BCDF]
+	(No symbol) [0x00007FF7578681E2]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:38:02,376 - ERROR: Failed to retrieve HTML content
+2024-03-16 12:48:11,960 - ERROR: Exception occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.129)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7579BAD02+56930]
+	(No symbol) [0x00007FF75792F602]
+	(No symbol) [0x00007FF7577E42E5]
+	(No symbol) [0x00007FF7577C1D4C]
+	(No symbol) [0x00007FF7578523F7]
+	(No symbol) [0x00007FF757867891]
+	(No symbol) [0x00007FF75784BA43]
+	(No symbol) [0x00007FF75781D438]
+	(No symbol) [0x00007FF75781E4D1]
+	GetHandleVerifier [0x00007FF757D36F8D+3711213]
+	GetHandleVerifier [0x00007FF757D904CD+4077101]
+	GetHandleVerifier [0x00007FF757D8865F+4044735]
+	GetHandleVerifier [0x00007FF757A59736+706710]
+	(No symbol) [0x00007FF75793B8DF]
+	(No symbol) [0x00007FF757936AC4]
+	(No symbol) [0x00007FF757936C1C]
+	(No symbol) [0x00007FF7579268D4]
+	BaseThreadInitThunk [0x00007FFA554D7344+20]
+	RtlUserThreadStart [0x00007FFA56D226B1+33]
+
+2024-03-16 12:48:18,094 - ERROR: Failed to retrieve HTML content

@@ -1,0 +1,12 @@
+﻿
+
+
+What is the main benefit of pruning in machine learning?
+
+1. It reduces overfitting in a model.
+
+2. It improves the accuracy of the model.
+
+3. It increases the complexity of the model.
+
+4. It speed up the training process.
