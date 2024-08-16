@@ -1,0 +1,34 @@
+﻿
+
+
+Match List I with List II
+
+LIST I
+
+Fruit
+
+A. Mango
+
+B. Papaya
+
+C. Coconut
+
+D. Apple
+
+LIST II
+
+Climate conditions
+
+I. Tropical climate and high humidity II. Warm and humid climate
+
+III. Warm and temperate climate IV. Tropical or sub tropical climate
+
+Choose the correct answer from the options given below:
+
+1. A-IV, B-I, C-II, D-III
+
+2. A-I, B-II, C-III, D-IV
+
+3. A-IV, B-II, C-I, D-III
+
+4. A-III, B-I, C-IV, D-II

@@ -1,0 +1,18 @@
+﻿
+
+
+Arrange the infection process in an appropriate sequence Agrobacterium tumefaciens causing tumor disease in plants-
+
+A. Multiplication of genome to cause infection and disease B. Chemotactic attraction of bacteria towards host roots C. Integration in the target host system in nuclei
+
+D. Activation of virulence system for the transfer of T-DNA E. Formation of single-stranded DNA
+
+Choose the correct answer from the options below:
+
+1. B, A, C, E, D
+
+2. B, D, E, C, A
+
+3. D, E, C, A, B
+
+4. A, C, D, E, B

@@ -1,0 +1,36 @@
+﻿
+
+
+Match List I with List II
+
+LIST I
+
+Classes of world vegetation on the basis of temperature
+
+A. Megatherms
+
+B. Mesotherms
+
+C. Microtherms
+
+D. Hekistotherms
+
+(e.g.: A-II, B-III, C-IV, D-I)
+
+LIST II
+
+Example
+
+I. Alpine vegetation II. Tropical rain forest III. Coniferous forest
+
+IV. Tropical deciduous forest
+
+Choose the correct answer from the options given below:
+
+1. A-III, B-I, C-IV, D-II
+
+2. A-II, B-I, C-IV, D-III
+
+3. A-II, B-I, C-III, D-I
+
+4. A-I, B-IV, C-III, D-I
